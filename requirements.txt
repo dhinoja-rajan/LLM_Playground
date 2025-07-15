@@ -1,0 +1,8 @@
+requests
+python-dotenv
+beautifulsoup4
+ipython
+groq_client
+selenium
+webdriver-manager
+gradio
