@@ -1,8 +1,7 @@
 requests
 python-dotenv
 beautifulsoup4
-ipython
-groq_client
+openai
 selenium
 webdriver-manager
 gradio
