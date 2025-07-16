@@ -1,5 +1,6 @@
 .env
 .qodo
 .vscode
+.gradio
 .ipynb_checkpoints
 .virtual_documents
